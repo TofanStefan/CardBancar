@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\Test\Card\bin\Debug\Card.exe.config
+C:\Users\Stefan\Desktop\Test\Card\bin\Debug\Card.exe
+C:\Users\Stefan\Desktop\Test\Card\bin\Debug\Card.pdb
+C:\Users\Stefan\Desktop\Test\Card\obj\Debug\Card.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\Test\Card\obj\Debug\Card.exe
+C:\Users\Stefan\Desktop\Test\Card\obj\Debug\Card.pdb
